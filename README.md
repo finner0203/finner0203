@@ -8,7 +8,7 @@ My name is **Finn Tran** and I'm an undergraduate student @UofT for a **Double M
 
 👯 I’m looking to collaborate on any projects related to anything above
 
-💬 Ask me about Statistical modelling and financial modelling 
+💬 Ask me about Statistical analysis and financial modelling 
 
 📫 How to reach me: finn.tran@mail.utoronto.ca
 
