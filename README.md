@@ -4,7 +4,7 @@ My name is **Finn Tran** and I'm an undergraduate student @UofT for a **Double M
 
 🔭 I’m currently studying Micro/Macroeconomics Theory and Probability modelling
 
-🌱 I’m currently learning Python for Data cleaning, as well as for financial analysis separately
+🌱 I’m currently learning Python for Data cleaning, as well as for financial analysis
 
 👯 I’m looking to collaborate on any projects related to anything above
 
