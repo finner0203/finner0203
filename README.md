@@ -14,7 +14,7 @@ My name is **Finn Tran** and I'm an undergraduate student @UofT for a **Double M
 
 ⚡ Fun fact: I love everything athletics-related, particularly a huge fan of MMA
 
-My programming skills mostly compromise of the PyData stack (Pandas, NumPy, SciPy, Scikit-Learn, OpenCV, TensorFlow) and Seaborn, Matplotlib, or Plotly for data visualization. 
+My programming skills mostly compromise of the PyData stack (Pandas, NumPy, Scikit-learn, SQLite), Excel VBA, R, with Seaborn, Matplotlib, Plotly or Tableau for data visualization. 
 
 
 <!---
