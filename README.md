@@ -1,6 +1,6 @@
 Hello there 👋
 
-My name is **Finn Tran** and I'm an undergraduate student @UofT for a **Double Major in Economics & Statistical Science with a minor in Mathematics**. I have a strong passion for anything Analytical related, with particular interest in leveraging Machine Learning to explore data-driven insights, optimize decision-making, and solve complex problems. Through CourseA training certificates, I intend to expand on my knowledge and apply it into self-learning projects and work settings.
+My name is **Finn Tran** and I'm an undergraduate student @UofT for a **Double Major in Economics & Statistical Science with a minor in Computer Science**. I have a strong passion for anything Analytical related, with particular interest in leveraging Machine Learning to explore data-driven insights, optimize decision-making, and solve complex problems. Through CourseA training certificates, I intend to expand on my knowledge and apply it into self-learning projects and work settings.
 
 🔭 I’m currently studying Micro/Macroeconomics Theory and Probability modelling
 
