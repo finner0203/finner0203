@@ -4,7 +4,7 @@ My name is **Finn Tran** and I'm an undergraduate student @UofT for a **Speciali
 
 🔭 I’m currently studying Statistical Methods for Machine Learning and Probability Theory
 
-🌱 I’m currently learning methods for Financial Modelling
+🌱 I’m currently refining my knowledge in Neural Networks, building prediction models via Keras
 
 👯 I’m looking to collaborate on any projects related to anything above
 
