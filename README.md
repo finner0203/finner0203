@@ -2,7 +2,7 @@ Hello there 👋
 
 My name is **Finn Tran** and I'm an undergraduate student @UofT for a **Specialist in Statistics, Economics Major and Math minor**. I have a strong passion for anything Analytical related, with particular interest in leveraging Machine Learning to explore data-driven insights, optimize decision-making, and solve complex problems. 
 
-🔭 I’m currently studying Statistical Methods for Machine Learning and Probability Theory
+🔭 I’m currently studying Stochastic Processes, Real Analysis and Combinatorics
 
 🌱 I’m currently refining my knowledge in Neural Networks, building prediction models via Keras
 
